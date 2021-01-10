@@ -19,11 +19,11 @@ All of that will live inside a component we are going to call TodoList. In your 
 
 Building the Rest of the App, This work can roughly be divided into five parts:
 
-Adding items
-Displaying items
-Styling
-Removing items
-Animating items as they are added or removed
+### Adding items
+### Displaying items
+### Styling
+### Removing items
+### Animating items as they are added or removed
 
 
 Adding Items
